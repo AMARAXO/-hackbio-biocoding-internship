@@ -67,3 +67,8 @@ x=3
 print(f"Name: {team_list[x]['name']}\nSlack Username: {team_list[x]['slack_username']}\nEmail: {team_list[x]['email']}\nHobby: {team_list[x]['hobby']}\nCountry: {team_list[x]['country']}\nDiscipline: {team_list[x]['discipline']}\nProgramming Language: {team_list[x]['programming_language']}\n")
 x=4
 print(f"Name: {team_list[x]['name']}\nSlack Username: {team_list[x]['slack_username']}\nEmail: {team_list[x]['email']}\nHobby: {team_list[x]['hobby']}\nCountry: {team_list[x]['country']}\nDiscipline: {team_list[x]['discipline']}\nProgramming Language: {team_list[x]['programming_language']}\n")
+
+#Video Description
+# link to video description: https://www.linkedin.com/posts/michael-ogar-aa6160142_coding-teamlysine-bioinformatic[…]m=member_android&rcm=ACoAACKM2B4B7FttbpFIigAj93J4h5yCp_ZaX6k
+
+#Github link: https://github.com/AMARAXO/-hackbio-biocoding-internship
