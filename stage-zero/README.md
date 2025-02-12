@@ -5,6 +5,9 @@ Team Information Organizer
 Description
 This project organizes team members' details using a Python dictionary. The data structure stores each member’s information, including their name, Slack username, email, hobby, country, discipline, and preferred programming language. The final print statement outputs this information in a clean, readable format.
 
+Video Description
+# link to video description: https://www.linkedin.com/posts/michael-ogar-aa6160142_coding-teamlysine-bioinformatic[…]m=member_android&rcm=ACoAACKM2B4B7FttbpFIigAj93J4h5yCp_ZaX6k
+
 Project Structure
 The Python code organizes data as follows:
 
