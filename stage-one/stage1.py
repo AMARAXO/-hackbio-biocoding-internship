@@ -90,5 +90,5 @@ def hamming_distance(str1, str2):
     return sum(1 for a, b in zip(str1, str2) if a != b)
 print(hamming_distance("Amara", "Amaraxo"))
 
-#link to Github: 
+#link to Github: https://github.com/AMARAXO/-hackbio-biocoding-internship
 
