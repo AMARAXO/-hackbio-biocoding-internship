@@ -107,3 +107,7 @@ def histogram_plots(df):
 histogram_plots(nhanes_df)
 
 
+#link to Github: https://github.com/AMARAXO/-hackbio-biocoding-internship
+# link to video description: https://www.linkedin.com/posts/michael-ogar-aa6160142_coding-teamlysine-bioinformatic[…]m=member_android&rcm=ACoAACKM2B4B7FttbpFIigAj93J4h5yCp_ZaX6k
+
+
